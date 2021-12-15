@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631490482999",
+    "project_id": "abc-food-app",
+    "storage_bucket": "abc-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631490482999:android:d4e1de2000fc0b2a1e40b2",
+        "android_client_info": {
+          "package_name": "com.example.abc_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631490482999-jukm4ocrk8oosupfiiarettk4f39k3c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuHoZTetsrBwnU1C57GEdvh4lYfHN5xE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631490482999-jukm4ocrk8oosupfiiarettk4f39k3c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
